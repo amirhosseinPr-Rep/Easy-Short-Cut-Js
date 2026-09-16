@@ -1,4 +1,4 @@
-export default class shortcut{
+export default class Shortcut{
     
     constructor()
     {
