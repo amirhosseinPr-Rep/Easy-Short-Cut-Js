@@ -1,0 +1,19 @@
+{
+  "name": "eventator",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for handling keyboard shortcuts and events.",
+  "type": "module",
+  "main": "./src/index.js",
+  "keywords": [
+    "javascript",
+    "events",
+    "keyboard",
+    "shortcut",
+    "event-handler"
+  ],
+  "author": "Amir Hossein Sadat Hosseini",
+  "license": "MIT",
+  "dependencies": {
+    "eventator": "file:eventator-1.0.0.tgz"
+  }
+}
